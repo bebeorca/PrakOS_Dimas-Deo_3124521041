@@ -1,1 +1,1 @@
-Repo. tugas kuliah.
+Repo tugas kuliah.
